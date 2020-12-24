@@ -2,3 +2,8 @@
 ||adserver.snapads.com^
 ||analytics.snapchat.com^
 ||app-analytics.snapchat.com^
+||gcp.api.snapchat.com^
+||app-analytics-v2.snapchat.com^
+||aws.duplex.snapchat.com^
+||mvm.snapchat.com^
+||chat-gateway-prod.chat.snapchat.com^
