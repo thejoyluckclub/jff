@@ -69,7 +69,7 @@
 ||usc.adserver.snapads.com^
 ||app-analytics.snapchat.com^
 ||app-analytics-v2.snapchat.com^
-||app.snapchat.com^
+# ||app.snapchat.com^
 ||aws.api.snapchat.com^
 ||cf-st.sc-cdn.net^
 ||chat-gateway-prod.chat.snapchat.com^
